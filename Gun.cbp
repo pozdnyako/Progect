@@ -36,7 +36,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Includes.h" />
+		<Unit filename="Image.cpp" />
+		<Unit filename="Image.h" />
 		<Unit filename="info.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
